@@ -1,0 +1,28 @@
+name: yourmissus
+favicon: null
+layout_spectrum: 0.7216191121842712
+typography_spectrum: 0.963076222455129
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.41788639151491225
+  lightness: 0.5908343936316669
+  saturation: 0.6051957870367914
+  rhythmicContrast: 0.8120231397915632
+purpose: []
